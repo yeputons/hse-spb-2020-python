@@ -1,0 +1,6 @@
+NumPy
+SciPy
+SymPy
+Jupyter
+
+Install 'Anaconda' to enjoy all of it at once.
